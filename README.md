@@ -84,4 +84,3 @@ The app directly communicates with the Open-Meteo API for the following endpoint
 
 ---
 
-Copy this content into a file named `README.md` in the root directory of your project. This updated version removes the proxy server information and includes direct API calls to Open-Meteo.
